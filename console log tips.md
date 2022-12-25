@@ -1,0 +1,1 @@
+https://devdojo.com/posandu/consolelog-alternatives-you-didnt-know
