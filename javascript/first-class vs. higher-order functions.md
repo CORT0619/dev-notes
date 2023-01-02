@@ -1,0 +1,1 @@
+https://www.educative.io/answers/what-are-first-class-vs-higher-order-functions-in-javascript

@@ -1,3 +1,0 @@
-scalable
-
-fault tolerant

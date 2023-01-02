@@ -1,0 +1,1 @@
+https://www.logicroom.co/blog/end-to-end-testing-encourages-bad-ui-architecture

@@ -1,0 +1,1 @@
+https://dev.to/gregorygaines/stop-using-env-files-now-kp0

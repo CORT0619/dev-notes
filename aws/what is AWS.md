@@ -23,8 +23,15 @@ Key terms:
 - redundancy
 a way to protect against natural disasters, etc. in order to minimize the loss of data; AWS connects data centers together in clusters through high speed and low latency links
 
+- maintain resiliency
+to keep your application available, you need to maintain high availability and resiliency. A well-known best practice for cloud architecture is to use region-scoped, managed services; availabilty and resiliency come built-in. when it's not possible, make sure the workload is replicated across multiple AZs. At a minimum use two AZs so if one fails the infra will be up and running in a second AZ. 
+
 - availabilty zone
-cluster of data centers, if one data center goes down the other is available; one or more data centers with redundant power, networking and connectivity
+cluster of data centers, if one data center goes down the other is available; one or more data centers with redundant power, networking and connectivity; the data centers operate in discrete facilities with undisclosed locations. they are connected using redundant high-speed and low-latency links
+
+az code name:
+- us-east-1a: an AZ in us-east-1 (Northern Virginia Region)
+- sa-east-1b: an AZ in sa-east-1 (Sao Paulo Region in South America)
 
 
 - region

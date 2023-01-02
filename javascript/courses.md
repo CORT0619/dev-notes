@@ -1,0 +1,1 @@
+https://courses.webdevsimplified.com/view/courses/javascript-simplified-beginner
